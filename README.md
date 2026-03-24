@@ -1,5 +1,6 @@
 # Arduino-projects
 Arduino-projects
+> **Note on Language:** The user interface, variable names, code comments and file names are written in Italian.
 
 ## Material used
 - **Bad USB:** Arduino UNO R4.
