@@ -5,7 +5,7 @@ Arduino-projects
 ## Material used
 - **Bad USB:** Arduino UNO R4.
 - **Bluetooth:** Arduino UNO R4.
-- **RC_Car:** Arduino UNO R4(for the car), Arduino UNO R3(for the controller), Joystick, 2 radio frequency modules nRF24L01 (TX:controller, RX:car), motor drivers L298N, 2 electric motors, chassis with wheels supplied.
+- **RC_Car:** Arduino UNO R4 (for the car), Arduino UNO R3 (for the controller), Joystick, 2 radio frequency modules nRF24L01 (TX:controller, RX:car), motor drivers L298N, 2 electric motors, chassis with wheels supplied.
 - **Scritta scorrevole display lcd:** Arduino UNO R4, dislpay lcd 2x16.
 - **ROBOSUMO:** Arduino Nano, robot mBlock, ultrasonic sensor HC-SR04, infrared sensor TCRT5000, 2 servomotors SG90
 
